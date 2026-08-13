@@ -4,8 +4,8 @@ Hey everyone, we're merging with Cryptics and keeping both guilds going. Unfortu
 
 Please plan to move (if needed) as soon as possible after weekly reset. We're going to try our best to make this smooth, but it's sure to get a little messy.
 
-FYI, guild names will be changing:
-ArchLords will become Starfall
+FYI, guild names will be changing:\
+ArchLords will become Starfall\
 Cryptics will become Moonfall
 
 
