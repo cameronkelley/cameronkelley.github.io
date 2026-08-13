@@ -28,9 +28,8 @@ FYI, guild names will be changing. ArchLords will become Moonfall and Cryptics w
 | SMOOTH | ImJonesIn |
 | 4x chinese | P109163804 |
 | Dobbyman | Angelations |
-| Minty7 |  |
+| Minty7 | Oxidation |
 | JoFusRoDah |  |
-| Oxidation |  |
 | quan |  |
 | Ben29290 |  |
 | Arugon06 |  |
