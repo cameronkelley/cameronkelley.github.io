@@ -24,11 +24,11 @@ Cryptics will become Moonfall
 | Dekfat | sheeksquatch |
 | Revalio | Pyronic |
 | PascalXVI | omniscien |
-| 3x chinese | onepoop |
+| 万宝路 | onepoop |
 | xeloss | Starcentre666 |
 | NPC1X29Q | Lylia |
 | SMOOTH | ImJonesIn |
-| 4x chinese | P109163804 |
+| 悠然之赖 | P109163804 |
 | Dobbyman | Angelations |
 | Minty7 | Oxidation |
 | JoFusRoDah |  |
