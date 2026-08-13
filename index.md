@@ -9,7 +9,7 @@ ArchLords will become Starfall\
 Cryptics will become Moonfall
 
 
-| **Staying in ArchLords** | **Moving to Cryptics** |
+| **Staying in Archlords (Starfall)** | **Moving to Cryptics (Moonfall)** |
 | --- | --- |
 | AlBizzo | AlSorathTheDark |
 | Blitz | MisterCrow |
