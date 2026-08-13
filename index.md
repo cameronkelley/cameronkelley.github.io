@@ -1,8 +1,10 @@
-**<u>MERGER WILL HAPPEN AFTER WEEKLY RESET ON 08/16</u>**
+## MERGER WILL HAPPEN AFTER WEEKLY RESET ON 8/16
 
-Hey everyone, we're merging with Cryptics and keeping both guilds going. Unfortunately there's no way to make everyone completely happy (we'd make a 100 person guild if we could), but below is who is going to what guild.
+## Players moving guilds will be kicked right after weekly reset to ensure no one gets locked out of expedition for registering before moving
 
-Please plan to move (if needed) as soon as possible after weekly reset. We're going to try our best to make this smooth, but it's sure to get a little messy.
+Hey everyone, Archlords is merging with Cryptics and we'll be keeping both guilds going. Unfortunately there's no way to make everyone completely happy (we'd make a 100 person guild if we could), but below is who is going to what guild.
+
+To try and keep people from getting locked out of expedition, we'll be kicking everyone who is moving after weekly reset. It's not ideal, but there's no perfect way to do this. We're going to try our best to make this smooth, but it's sure to get a little messy.
 
 FYI, guild names will be changing:\
 ArchLords will become Starfall\
